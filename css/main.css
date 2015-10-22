@@ -60,32 +60,26 @@ text-decoration: none;
 
 figure{
   margin: 0;
-  display: block;
 }
 
 figcaption{
   margin: 0;
 }
 
-.img-flex-small-1 {
-  width: 80%;
+.img-flex{
+  width: 100%;
+  display: block;
 }
 
-.fig-1 {
-  width: 80%;
+.fig {
+  width: 100%;
   margin: 0;
 }
 
-.img-flex{
-  width: 100%;
-}
 
 @media only screen and (min-width: 25em){
-  .img-flex-small-1 {
-    width: 50%;
-  }
+}
 
-  .fig-1 {
-    width: 50%;
-  }
+@media only screen and (min-width: 50em){
+
 }
