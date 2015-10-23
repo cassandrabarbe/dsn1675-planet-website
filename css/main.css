@@ -78,6 +78,12 @@ figcaption{
 
 
 @media only screen and (min-width: 25em){
+  nav li{
+    margin: 0;
+    text-align:left;
+    width: 33.3%;
+    list-style: none;
+  }
 }
 
 @media only screen and (min-width: 50em){
