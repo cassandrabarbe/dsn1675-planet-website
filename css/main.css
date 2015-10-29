@@ -16,10 +16,6 @@ body{
   margin: 0;
 }
 
-.gutter {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
 
 .img-flex {
   width: 100%;
@@ -46,6 +42,10 @@ figcaption{
 .fig {
   width: 100%;
   margin: 0;
+}
+
+dd{
+  margin:0;
 }
 
 
