@@ -18,6 +18,30 @@ body{
 
 li {
   list-style: none;
+  text-decoration: none;
+}
+
+a:visited{
+  color: blue;
+  text-decoration: none;
+}
+
+.masthead{
+  background-color: grey;
+}
+
+.title{
+  background-color: lightgrey;
+  margin:0;
+}
+
+.grey{
+  background-color: lightgrey;
+  padding-top: 1em;
+}
+
+.dark-grey{
+  background-color: darkgrey;
 }
 
 figure{
@@ -43,8 +67,4 @@ dd{
 li{
   display: inline-block;
 }
-}
-
-@media only screen and (min-width: 50em){
-
 }
